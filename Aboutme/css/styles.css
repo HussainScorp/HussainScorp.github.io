@@ -2206,7 +2206,7 @@ textarea.form-control {
   bottom: 370px;
   right: 565px;
   position: absolute;
-  max-width: 100%;
+  /*max-width: 100%;*/
 }
 
 .was-validated .form-control:valid, .form-control.is-valid {
