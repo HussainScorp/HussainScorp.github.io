@@ -2205,7 +2205,7 @@ textarea.form-control {
   -webkit-border-radius: 90px;
   bottom: 370px;
   right: 565px;
-  position: inherit;
+  position: absolute;
   max-width: 100%;
 }
 
