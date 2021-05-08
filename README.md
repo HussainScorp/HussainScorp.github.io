@@ -1,2 +1,2 @@
 # HussainScorp.github.io
-lol
+This is My Personal Website, About myself  
